@@ -1,23 +1,27 @@
-# AetherSX2-builds
+# AetherSX2 Builds
 
-This repo contains current and previous versions of the AetherSX2 app.
-----------------------------------------------------------------------
+![AetherSX2 Cover](https://raw.githubusercontent.com/AetherSX2-backup/Images/main/images.png)
 
-[alpha-702-2332](https://github.com/AetherSX2-backup/AetherSX2-builds/tree/master/alpha-702-2332)
+Welcome to the AetherSX2 builds repository! Here you will find links to different versions and the latest version available for download.
 
-[alpha-2233-2455](https://github.com/AetherSX2-backup/AetherSX2-builds/tree/master/alpha-2233-2455)
+## Alpha Versions
 
-[alpha-2467-2630](https://github.com/AetherSX2-backup/AetherSX2-builds/tree/master/alpha-2467-2630)
+- **[alpha-702-2332](https://github.com/AetherSX2-backup/AetherSX2-builds/tree/master/alpha-702-2332)**
+- **[alpha-2233-2455](https://github.com/AetherSX2-backup/AetherSX2-builds/tree/master/alpha-2233-2455)**
+- **[alpha-2467-2630](https://github.com/AetherSX2-backup/AetherSX2-builds/tree/master/alpha-2467-2630)**
+- **[alpha-2631-2637](https://github.com/AetherSX2-backup/AetherSX2-builds/tree/master/alpha-2631-2637)**
+- **[alpha-2809-2874](https://github.com/AetherSX2-backup/AetherSX2-builds/tree/master/alpha-2809-2874)**
+- **[alpha-2928-3060](https://github.com/AetherSX2-backup/AetherSX2-builds/tree/master/alpha-2928-3060)**
+- **[alpha-3191-3668](https://github.com/AetherSX2-backup/AetherSX2-builds/tree/master/alpha-3191-3668)**
 
-[alpha-2631-2637](https://github.com/AetherSX2-backup/AetherSX2-builds/tree/master/alpha-2631-2637)
+## Latest Version
 
-[alpha-2809-2874](https://github.com/AetherSX2-backup/AetherSX2-builds/tree/master/alpha-2809-2874)
+- **[Download the latest version](https://github.com/AetherSX2-backup/AetherSX2-builds/raw/master/alpha-3191-3668/13930-v1.5-3668.apk)**
 
-[alpha-2928-3060](https://github.com/AetherSX2-backup/AetherSX2-builds/tree/master/alpha-2928-3060)
+## Custom Version
 
-[alpha-3191-3668](https://github.com/AetherSX2-backup/AetherSX2-builds/tree/master/alpha-3191-3668)
+- **[AetherSX2 Custom Turnip - v1447](https://github.com/AetherSX2-backup/AetherSX2-builds/raw/master/custom-turnip/aethersx2-turnip-1447.apk)**
 
-[latest version](https://github.com/AetherSX2-backup/AetherSX2-builds/raw/master/alpha-3191-3668/13930-v1.5-3668.apk)
+---
 
-Enjoy Player 🎮
---------------
+Thank you for visiting! I hope you find the perfect build for your AetherSX2 experience. 🎮
